@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/linuxboy-hub/node-course#readme",
   "dependencies": {
+    "cors": "2.8.5",
     "express": "5.1.0",
-    "nodemon": "3.1.10"
+    "nodemon": "3.1.10",
+    "zod": "4.1.8"
   }
 }
